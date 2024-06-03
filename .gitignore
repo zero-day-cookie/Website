@@ -1,3 +1,9 @@
-cache
+# Node.js
 node_modules
+
+# vitepress
+cache
+dist
+
+# VSCode
 .vscode
