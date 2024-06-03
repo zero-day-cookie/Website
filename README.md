@@ -2,23 +2,23 @@
 
 
 ```
-bun install
+pnpm install
 ```
 
 # Development
 
 ```
-bun dev
+pnpm dev
 ```
 
 # Build
 
 ```
-bun build
+pnpm build
 ```
 
 # Preview
 
 ```
-bun preview
+pnpm preview
 ```
