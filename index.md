@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "零日餅乾社"
   text: "提供社員一個學習的環境、資源、交流平臺"
-  tagline: My great project tagline
+  tagline: 透過跨校群體建立完善的社團
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 夏日資安工作坊！！
+      link: /event
+    # - theme: alt
+    #   text: API Examples
+    #   link: /api-examples
 
 # features:
 #   - title: Feature A
